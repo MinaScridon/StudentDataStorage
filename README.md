@@ -1,7 +1,7 @@
 # StudentDataStorage
 
 This is a little project about student data storage where the technologies used are Hibernate and MySQL.
-The Student class has a relationship one-to-one to Laptop class. And the class Clas has a relationship one-to-many to Student class.
+The Student class has a relationship one-to-one to Laptop class. And the class Clas has a relationship one-to-many to Student class. 
 You can do different things like:
 1. Display the list of students from a class using class name or class id.
 2. Display for a particular student the ram memory and the processor of his laptop.
